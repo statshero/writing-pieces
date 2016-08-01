@@ -2,7 +2,8 @@
 /* Custom bits
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
-h1 { font-size: 1.8rem }
+h1 { font-size: 1.8rem;
+     margin: 0; }
 
 p.subtitle { font-size: 1.4rem}
 

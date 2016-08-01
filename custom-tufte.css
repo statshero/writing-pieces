@@ -2,6 +2,11 @@
 /* Custom bits
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
+h1 { font-size: 1.8rem }
+
+p.subtitle { font-size: 1.4rem}
+
+
 .docs-section {
   border-top: 1px solid #eee;
   margin-top: 2rem; }
@@ -13,7 +18,6 @@
     letter-spacing: .2rem;
     font-weight: 600; }
 
-p.subtitle { font-size: 1.4rem}
 
 blockquote .sidenote, blockquote .marginnote { margin-right: -82%;
                                                min-width: 59%;

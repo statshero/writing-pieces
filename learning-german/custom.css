@@ -1,9 +1,10 @@
 blockquote .sidenote, blockquote .marginnote { margin-right: -82%;
                                                min-width: 59%;
                                                text-align: left; }  
-ol, ul { width: 45%;
-         -webkit-padding-start: 5%;
-         -webkit-padding-end: 5%; }
+
+ol .sidenote, ul .marginnote { margin-right: -82%;
+                               min-width: 59%;
+                               text-align: left; }  
 
 
 /* Custom tables

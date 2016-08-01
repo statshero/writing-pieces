@@ -5,8 +5,9 @@
 h1 { font-size: 1.8rem;
      margin: 0; }
 
-p.subtitle { font-size: 1.4rem}
+figure { padding: 1rem 0 0 0; }
 
+p.subtitle { font-size: 1.4rem}
 
 .docs-section {
   border-top: 1px solid #eee;
